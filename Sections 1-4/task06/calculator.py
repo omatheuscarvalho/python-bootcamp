@@ -32,6 +32,5 @@ def calculate():
         else:
             result = first_value / secound_value
     print(f"The result of {first_value} {operator} {secound_value} is {result}")
-
     
 calculate()
